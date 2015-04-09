@@ -12,6 +12,7 @@ package gdi;
  * 
  * Allu akhbar
  * Asd asd asd
+ * Asd 2
  */
 public class GDI {
 
