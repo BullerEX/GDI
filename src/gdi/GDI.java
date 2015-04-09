@@ -9,6 +9,8 @@ package gdi;
 /**
  *
  * @author adsi
+ * 
+ * lpñlñlñlñ
  */
 public class GDI {
 
