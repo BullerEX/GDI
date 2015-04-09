@@ -10,7 +10,7 @@ package gdi;
  *
  * @author adsi
  * 
- * lpñlñlñlñ
+ * Allu akhbar
  */
 public class GDI {
 
